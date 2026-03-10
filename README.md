@@ -7,9 +7,9 @@ This project was developed as part of the **Web Development Final Project**.
 
 ## 👥 Team Members
 
-- Rodina Mohamed  
 - Farah Walid  
-- Bassmala Hossam  
+- Rodina Mohamed
+- Basmala Hossam  
 - Mariam Ahmad  
 - Nour Essam  
 - Mesk Ayman  
@@ -80,7 +80,6 @@ Users can list books they want to exchange, browse books listed by others, and c
 
 The platform encourages **reading culture, resource sharing, and community collaboration**.
 
----
 
 
 
