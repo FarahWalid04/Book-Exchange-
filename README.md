@@ -3,13 +3,21 @@ Book Exchange is a collaborative web platform where users can register, list the
 This project was developed as part of the Web Development Final Project.
 
 ##👥 Team Members
+
 Farah Walid
+
 Rodina Mohamed
+
 Basmala Hossam
+
 Mariam Ahmad
+
 Nour Essam
+
 Mesk Ayman
+
 Yasmmen Nabil
+
 ##🚀 Features
 User registration, login, and secure authentication.
 Add, edit, and remove book listings linked to user accounts.
